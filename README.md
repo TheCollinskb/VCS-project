@@ -93,16 +93,18 @@ main
 
 Command Description
 
-* Git  Initialize a new local repository
-* Git   clone a remote repository
-* Git status changes in the working directory
-* Git add file stage changes for commmit
+* Git Init 
+* Git clone https://github.com/TheCollinskb/VCS-project.git
+* Git status 
+* Git add .
 * Git commit -m "message" Commit staged changes
 * Git pull fetch and merge remote changes
 * Git push Push commits to remote repository
 * Git branch List branches
-* Git checkout <branch> Switch branches
-* Git merge branch another branch into current branch
+* Git checkout Tom
+* Git checkout Jerry
+* Git checkout Main
+* Git merge
 
 
 ## Why Use Version Control
@@ -112,32 +114,34 @@ Command Description
 - **Branching**: Experiment without affecting main code.
 
 
-## Basic Git Workflow
+## Version Control Workflow
 
-📷 *Image Placeholder: Workflow diagram showing add → commit → push → remote repo*  
+📷 *Image Placeholder: Workflow 
 `![Git Workflow](./img/tom%20and%20jerry.png)
 
-### Example Commands:
+### Project Workflow:
 bash
 # 1. Initialize a new Git repository
-git init
+* Git init
 
 ![Git-init](./img/gitinit.png)
 
 # 2. Stage changes
-git add .
+* Git add .
 
 ![Git-add](./img/gitadd.png)
 
 # 3. Commit staged changes and pushed to main branch
-git commit -m "Initial commit"
-git push origin main
+* Git commit -m "Initial commit"
+* Git push origin main
 
-📷 Image Placeholder: Screenshot of a clean Git commit history
+📷 Image Placeholder: Screenshot of a clean
+* Git commit history
 ![Clean Commit History](./img/gitcomit.png)
 
 
-📷 Image Placeholder: Terminal screenshot of git status output
+📷 Image Placeholder: Terminal screenshot of 
+* Git status output
 
 ![Git-Status](./img/gitstatus.png)
 
