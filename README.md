@@ -142,4 +142,32 @@ git push origin main
 ![Git-Status](./img/gitstatus.png)
 
 
+📷 Image Placeholder: Tom's branch
+![Tom's-branch](./img/gitcheckoutTom.png)
+
+📷 Image Placeholder: Jerry's branch
+![Jerry's-branch](./img/jerrybranch.png)
+
+📷 Image Placeholder: index file
+![indexfile](./img/index.html.png)
+
+📷 Image Placeholder: Pull request
+![Pullrequest](./img/pullrequest.png)
+
+📷 Image Placeholder: Merged changes
+![Mergedchanges](./img/mergedchanges.png)
+
+📷 Image Placeholder: Git merge Jerry
+![GitmergeJerry](./img/gitmergeJerry.png)
+
+📷 Image Placeholder: Git merge Tom
+![GitmergeTom](./img/gitmergeTom.png)
+
+📷 Image Placeholder: Tom's Push
+![Tom'spush](./img/Tomspush.png)
+
+📷 Image Placeholder: Git push main
+![Gitpushmain](./img/gitpushmain.png)
+
+
 	
